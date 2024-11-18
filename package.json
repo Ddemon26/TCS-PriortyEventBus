@@ -1,0 +1,14 @@
+{
+  "name": "com.tcs.priorityeventbus",
+  "displayName": "TCS Priority Event Bus",
+  "description": "A simple event bus that allows for prioritized event handling.",
+  "version": "1.0.3",
+  "keywords": ["TCS", "Event Bus", "Priority", "Event", "Bus"],
+  "category": "Tent City Studio",
+  "dependencies": {},
+  "author": {
+    "name": "Damon Fedorick",
+    "url": "https://github.com/Ddemon26/TCS-PriortyEventBus"
+  },
+  "documentationUrl": "https://github.com/Ddemon26/TCS-PriortyEventBus/blob/main/README.md"
+}

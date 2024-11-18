@@ -1,0 +1,16 @@
+{
+    "name": "TCS.PriorityEventBus.Tests",
+    "rootNamespace": "TCS.PriorityEventBus.Tests",
+    "references": [
+        "GUID:81cfd8086b7645743b5d7fd85f28649e"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
